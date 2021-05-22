@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
-Estoy aprendiendo a usar GitHub para mejorar mis buenas prácticas como desarrollador de software.
+Esta linea no estaba muy bien, pero lo demás ha funcionado perfectamente. 
 Espero mejorar continuamente en esto.
